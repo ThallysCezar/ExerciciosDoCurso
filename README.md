@@ -13,4 +13,7 @@ Exercicios:
 <p>Escreva um programa que encontre o menor inteiro positivo n que satisfaça as seguintes condições:</p></br>
 <p>n/3 = x inteiros e resto 2</p>
 <p>n/5 = x inteiros e resto 3</p>
-<p>n/7 = x inteiros e resto 4</p>
+<p>n/7 = x inteiros e resto 4</p></br>
+
+<h2>Exercicio 4:</h2>
+<p>Desenvolver uma agenda.</p>
